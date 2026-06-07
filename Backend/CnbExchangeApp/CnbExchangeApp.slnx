@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CnbExchange.Application/CnbExchangeApp.Application.csproj" />
+  <Project Path="CnbExchange.Domain/CnbExchangeApp.Domain.csproj" />
+  <Project Path="CnbExchange.Infrastructure/CnbExchangeApp.Infrastructure.csproj" />
+  <Project Path="CnbExchangeApp.API/CnbExchangeApp.Api.csproj" />
+  <Project Path="CnbExchangeApp.Tests/CnbExchangeApp.Tests.csproj" />
+</Solution>

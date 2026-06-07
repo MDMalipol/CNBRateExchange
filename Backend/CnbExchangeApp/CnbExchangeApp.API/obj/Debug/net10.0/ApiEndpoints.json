@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CnbExchangeApp.Api.Controllers.ExchangeRateController",
+    "Method": "GetDailyRates",
+    "RelativePath": "api/ExchangeRate/daily",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

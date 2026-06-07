@@ -1,0 +1,15 @@
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\bin\Debug\net10.0\CnbExchangeApp.Application.deps.json
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\bin\Debug\net10.0\CnbExchangeApp.Application.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\bin\Debug\net10.0\CnbExchangeApp.Application.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\bin\Debug\net10.0\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\bin\Debug\net10.0\CnbExchangeApp.Domain.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.csproj.AssemblyReference.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.AssemblyInfoInputs.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.AssemblyInfo.cs
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExcha.6C20F2E6.Up2Date
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\refint\CnbExchangeApp.Application.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\CnbExchangeApp.Application.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Application\obj\Debug\net10.0\ref\CnbExchangeApp.Application.dll

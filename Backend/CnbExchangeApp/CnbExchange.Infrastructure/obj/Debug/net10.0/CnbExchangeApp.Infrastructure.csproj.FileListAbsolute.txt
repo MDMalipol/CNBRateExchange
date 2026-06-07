@@ -1,0 +1,17 @@
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Infrastructure.deps.json
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Infrastructure.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Infrastructure.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Application.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Application.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\bin\Debug\net10.0\CnbExchangeApp.Domain.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExcha.FFE3F2C1.Up2Date
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\refint\CnbExchangeApp.Infrastructure.dll
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\CnbExchangeApp.Infrastructure.pdb
+C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Infrastructure\obj\Debug\net10.0\ref\CnbExchangeApp.Infrastructure.dll
