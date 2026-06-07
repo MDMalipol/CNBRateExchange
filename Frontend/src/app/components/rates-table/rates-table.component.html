@@ -1,0 +1,47 @@
+<div style="margin: 20px; font-family: Arial, sans-serif;">
+  <h2>CNB Daily Exchange Rates</h2>
+
+  <!-- Loading Indicator -->
+  <div *ngIf="isLoading" style="padding: 20px; text-align: center; color: #555;">
+    ⏳ Loading exchange rates...
+  </div>
+
+  <!-- Error Message -->
+  <div *ngIf="errorMessage && !isLoading"
+       style="padding: 12px 16px; background-color: #fdecea; color: #c62828; border: 1px solid #f5c6cb; border-radius: 4px; margin-bottom: 15px;">
+    ⚠️ {{ errorMessage }}
+  </div>
+
+  <!-- Table (only shown when data is loaded) -->
+  <ng-container *ngIf="!isLoading && !errorMessage">
+    <input type="text"
+           [(ngModel)]="searchQuery"
+           (input)="applyFilter()"
+           placeholder="Search currency, code, or country..."
+           style="padding: 8px; width: 300px; margin-bottom: 15px; border-radius: 4px; border: 1px solid #ccc;" />
+
+    <table style="width: 100%; border-collapse: collapse; text-align: left;">
+      <thead>
+        <tr style="background-color: #f2f2f2; border-bottom: 2px solid #ddd;">
+          <th style="padding: 10px;">Country</th>
+          <th style="padding: 10px;">Currency</th>
+          <th style="padding: 10px;">Amount</th>
+          <th style="padding: 10px;">Code</th>
+          <th style="padding: 10px;">Rate (CZK)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of filteredRates" style="border-bottom: 1px solid #ddd;">
+          <td style="padding: 10px;">{{ item.country }}</td>
+          <td style="padding: 10px;">{{ item.currency }}</td>
+          <td style="padding: 10px;">{{ item.amount }}</td>
+          <td style="padding: 10px; font-weight: bold;">{{ item.currencyCode }}</td>
+          <td style="padding: 10px; color: #2e7d32;">{{ item.rate }}</td>
+        </tr>
+        <tr *ngIf="filteredRates.length === 0">
+          <td colspan="5" style="padding: 10px; text-align: center; color: #888;">No results match your search.</td>
+        </tr>
+      </tbody>
+    </table>
+  </ng-container>
+</div>

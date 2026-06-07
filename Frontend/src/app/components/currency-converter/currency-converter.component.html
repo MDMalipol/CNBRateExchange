@@ -1,0 +1,45 @@
+<div style="margin: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; max-width: 450px; font-family: Arial, sans-serif; background-color: #fafafa;">
+  <h3 style="margin-top: 0;">Currency Cross-Rate Calculator</h3>
+
+  <!-- Loading Indicator -->
+  <div *ngIf="isLoading" style="padding: 10px; text-align: center; color: #555;">
+    ⏳ Loading currencies...
+  </div>
+
+  <!-- Error Message -->
+  <div *ngIf="errorMessage && !isLoading"
+       style="padding: 12px; background-color: #fdecea; color: #c62828; border: 1px solid #f5c6cb; border-radius: 4px; margin-bottom: 10px;">
+    ⚠️ {{ errorMessage }}
+  </div>
+
+  <!-- Converter Form (only shown when data loaded) -->
+  <ng-container *ngIf="!isLoading && !errorMessage">
+    <div style="margin-bottom: 12px;">
+      <label style="display: block; margin-bottom: 4px; font-weight: bold;">Conversion Type:</label>
+      <select [(ngModel)]="conversionDirection" (change)="calculateConversion()" style="padding: 8px; width: 100%; border-radius: 4px; border: 1px solid #ccc;">
+        <option value="fromCzk">Convert CZK to Foreign Currency</option>
+        <option value="toCzk">Convert Foreign Currency to CZK</option>
+      </select>
+    </div>
+
+    <div style="margin-bottom: 12px;">
+      <label style="display: block; margin-bottom: 4px; font-weight: bold;">Target Currency:</label>
+      <select [(ngModel)]="selectedCurrencyCode" (change)="calculateConversion()" style="padding: 8px; width: 100%; border-radius: 4px; border: 1px solid #ccc;">
+        <option *ngFor="let item of ratesList" [value]="item.currencyCode">
+          {{ item.currencyCode }} - {{ item.currency }} ({{ item.country }})
+        </option>
+      </select>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <label style="display: block; margin-bottom: 4px; font-weight: bold;">Amount:</label>
+      <input type="number" [(ngModel)]="amountToConvert" (input)="calculateConversion()" style="padding: 8px; width: 95%; border-radius: 4px; border: 1px solid #ccc;" />
+    </div>
+
+    <div style="padding: 12px; background-color: #e8f5e9; color: #2e7d32; border-radius: 4px; font-size: 1.1em; font-weight: bold; text-align: center;">
+      Result:
+      <span *ngIf="conversionDirection === 'fromCzk'">{{ calculatedResult | number:'1.2-2' }} {{ selectedCurrencyCode }}</span>
+      <span *ngIf="conversionDirection === 'toCzk'">{{ calculatedResult | number:'1.2-2' }} CZK</span>
+    </div>
+  </ng-container>
+</div>
