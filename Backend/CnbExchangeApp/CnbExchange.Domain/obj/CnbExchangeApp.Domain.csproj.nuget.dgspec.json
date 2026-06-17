@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark2\\OneDrive\\Documents\\CNBRate_WebApp\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj": {}
+    "C:\\Users\\Mark2\\CNBRateExchange\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark2\\OneDrive\\Documents\\CNBRate_WebApp\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj": {
+    "C:\\Users\\Mark2\\CNBRateExchange\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark2\\OneDrive\\Documents\\CNBRate_WebApp\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mark2\\CNBRateExchange\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj",
         "projectName": "CnbExchangeApp.Domain",
-        "projectPath": "C:\\Users\\Mark2\\OneDrive\\Documents\\CNBRate_WebApp\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Mark2\\CNBRateExchange\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\CnbExchangeApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Mark2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark2\\OneDrive\\Documents\\CNBRate_WebApp\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mark2\\CNBRateExchange\\Backend\\CnbExchangeApp\\CnbExchange.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

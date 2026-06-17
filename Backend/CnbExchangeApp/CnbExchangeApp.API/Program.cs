@@ -22,7 +22,12 @@ namespace CnbExchangeApp.API
             {
                 options.AddPolicy("AllowAngularFrontend", policy =>
                 {
-                    policy.WithOrigins("http://localhost:4200")
+                    // Read allowed origins from environment variable (comma-separated) or fall back to localhost
+                    var allowedOrigins = builder.Configuration["AllowedCorsOrigins"]
+                        ?? Environment.GetEnvironmentVariable("ALLOWED_CORS_ORIGINS")
+                        ?? "http://localhost:4200";
+
+                    policy.WithOrigins(allowedOrigins.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
                           .AllowAnyHeader()
                           .AllowAnyMethod();
                 });

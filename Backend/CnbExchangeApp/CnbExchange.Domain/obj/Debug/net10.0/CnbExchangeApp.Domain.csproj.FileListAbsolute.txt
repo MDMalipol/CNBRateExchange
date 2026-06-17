@@ -9,3 +9,15 @@ C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExcha
 C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\refint\CnbExchangeApp.Domain.dll
 C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.pdb
 C:\Users\Mark2\OneDrive\Documents\CNBRate_WebApp\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\ref\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\bin\Debug\net10.0\CnbExchangeApp.Domain.deps.json
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\bin\Debug\net10.0\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\bin\Debug\net10.0\CnbExchangeApp.Domain.pdb
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.AssemblyInfo.cs
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.sourcelink.json
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\refint\CnbExchangeApp.Domain.dll
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\CnbExchangeApp.Domain.pdb
+C:\Users\Mark2\CNBRateExchange\Backend\CnbExchangeApp\CnbExchange.Domain\obj\Debug\net10.0\ref\CnbExchangeApp.Domain.dll

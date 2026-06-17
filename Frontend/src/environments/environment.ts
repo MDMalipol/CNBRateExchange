@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:5141/api'
+  apiUrl: 'https://cnb-exchange-api.onrender.com'
 };
